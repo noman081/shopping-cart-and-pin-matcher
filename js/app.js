@@ -47,3 +47,5 @@ document.getElementById('case-plus').addEventListener('click', function () {
 document.getElementById('case-minus').addEventListener('click', function () {
     updateProduct('case', 59, false);
 })
+
+// end-Here 
